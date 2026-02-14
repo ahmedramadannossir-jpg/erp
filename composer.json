@@ -1,0 +1,14 @@
+{
+  "name": "click-store/installments",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "^11.0",
+    "simple-qrcode/simple-qrcode": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
